@@ -6,5 +6,6 @@
 ### Goesser
 ### Hirter
 
+:joy:
 
 ``System.out.println("hier kann der Text ausgegeben werden!);``
